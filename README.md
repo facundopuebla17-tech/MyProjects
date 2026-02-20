@@ -10,31 +10,19 @@ All data is stored locally in a SQLite database.
 The application includes input validation and dynamic filtering through a graphical interface.
 
 🛠 Technologies Used
-
 - Python 3
-
 - Tkinter (GUI)
-
 - SQLite3
-
 - Regular Expressions
-
 - MVC Architecture
 
 🚀 Features
-
 - Create new dive entries
-
 - Update existing records
-
 - Delete records
-
 - View all dives
-
 - Search by date or location
-
 - Input validation
-
 - Local database persistence
 
 📂 Project Structure
@@ -50,9 +38,7 @@ python Proyecto_Nautilus_Buceo.py
 The application is structured following the MVC pattern:
 
 - Model → Handles database operations (SQLite)
-
 - View → Tkinter graphical interface
-
 - Controller → Connects user actions with business logic
 
 🔮 Future Improvements
