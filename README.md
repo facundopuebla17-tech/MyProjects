@@ -38,11 +38,11 @@ The application includes input validation and dynamic filtering through a graphi
 - Local database persistence
 
 📂 Project Structure
-Proyecto_Nautilus_Buceo.py
-modelo_buceo.py
-controlador_buceo.py
-vista_buceo.py
-buceo.db
+- Proyecto_Nautilus_Buceo.py
+- modelo_buceo.py
+- controlador_buceo.py
+- vista_buceo.py
+- buceo.db
 ▶️ How to Run
 python Proyecto_Nautilus_Buceo.py
 🧠 Architecture
