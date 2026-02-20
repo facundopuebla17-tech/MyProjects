@@ -11,51 +11,46 @@ The application includes input validation and dynamic filtering through a graphi
 
 🛠 Technologies Used
 
-_Python 3
+Python 3
 
-_Tkinter (GUI)
+Tkinter (GUI)
 
-_SQLite3
+SQLite3
 
-_Regular Expressions
+Regular Expressions
 
-_MVC Architecture
+MVC Architecture
 
 🚀 Features
 
-_Create new dive entries
+Create new dive entries
 
-_Update existing records
+Update existing records
 
-_Delete records
+Delete records
 
-_View all dives
+View all dives
 
-_Search by date or location
+Search by date or location
 
-_Input validation
+Input validation
 
-_Local database persistence
+Local database persistence
 
 📂 Project Structure
 Proyecto_Nautilus_Buceo.py
-
 modelo_buceo.py
-
 controlador_buceo.py
-
 vista_buceo.py
-
 buceo.db
-
 ▶️ How to Run
 python Proyecto_Nautilus_Buceo.py
 🧠 Architecture
 
 The application is structured following the MVC pattern:
 
-Model: Handles database operations (SQLite)
+Model → Handles database operations (SQLite)
 
-View: Tkinter graphical interface
+View → Tkinter graphical interface
 
-Controller: Connects user actions with business logic
+Controller → Connects user actions with business logic
