@@ -53,4 +53,5 @@ The application is structured following the MVC pattern:
 
 **Facundo Puebla**  
 Python Developer (in training)
+
 GitHub: https://github.com/facundopuebla17-tech
