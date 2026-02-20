@@ -54,3 +54,17 @@ Model → Handles database operations (SQLite)
 View → Tkinter graphical interface
 
 Controller → Connects user actions with business logic
+
+🔮 Future Improvements
+
+- Add user authentication  
+- Export dive logs to PDF  
+- Add statistics dashboard (average depth, total dive time)  
+- Improve UI styling  
+- Cloud database integration  
+
+👤 Author
+
+**Facundo Puebla**  
+Python Developer  
+GitHub: https://github.com/facundopuebla17-tech
